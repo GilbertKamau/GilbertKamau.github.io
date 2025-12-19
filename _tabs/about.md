@@ -4,8 +4,6 @@ icon: fas fa-user
 order: 4
 ---
 
-# About Me
-
 Hi 👋, I’m **Gilbert Kamau**, a software developer with a strong interest in **backend development, artificial intelligence, cloud computing, and data structures & algorithms**. I enjoy building scalable systems, exploring intelligent solutions, and breaking down complex concepts into practical implementations.
 
 ## What I Do
