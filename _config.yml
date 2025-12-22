@@ -109,7 +109,13 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  # Global switch for the post-comment system. Keeping it empty means disabled.
+  active: giscus # Set this to giscus
+  giscus:
+    repo: 'your-github-username/your-repo-name'
+    repo_id: 'your-repo-id'
+    category: 'Announcements'
+    category_id: 'your-category-id'
+    reactions_enabled: '1' # Ensure this is '1'
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
