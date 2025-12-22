@@ -3,6 +3,7 @@ title: Building a Scalable Backend with DynamoDB Streams — My Journey Before t
 date: 2025-12-06
 categories: [Cloud]
 tags: [aws, dynamodb, lambda, cloud, serverless]
+comments: true
 ---
 
 When I agreed to give an online presentation to the **AWS User Group Pwani**, I knew I didn’t want to show slides full of theory. I wanted something real — something I could **build, demo, and explain**.
