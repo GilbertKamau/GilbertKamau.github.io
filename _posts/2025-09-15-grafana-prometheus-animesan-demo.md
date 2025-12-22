@@ -4,6 +4,7 @@ author: Gilbert Chris
 date: 2025-09-15
 categories: [DevOps, Monitoring, Cloud]
 tags: [grafana, prometheus, monitoring, devops, observability]
+comments: true
 ---
 
 Monitoring is one of those things teams know they need, but often postpone until something breaks. When I was preparing for my **DevOps talk last Friday**, I wanted to avoid theory-heavy slides and instead show monitoring in action — something real, visual, and easy to understand.
