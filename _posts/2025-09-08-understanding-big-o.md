@@ -4,6 +4,7 @@ author: Gilbert Kamau
 date: 2025-09-08
 categories: [DSA]
 tags: [big-o, time-complexity, space-complexity, dsa]
+comments: true
 ---
 
 When we talk about **data structures and algorithms**, you’ll often hear statements like:
