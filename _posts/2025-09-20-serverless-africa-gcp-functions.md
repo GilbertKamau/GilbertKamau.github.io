@@ -4,6 +4,7 @@ author: Gilbert Chris
 date: 2025-09-20
 categories: [Cloud, Serverless, DevFest]
 tags: [gcp, cloud-functions, cloud-run, pubsub, serverless, devfest]
+comments: true
 ---
 
 *A practical demo from DevFest Mt Kenya*
