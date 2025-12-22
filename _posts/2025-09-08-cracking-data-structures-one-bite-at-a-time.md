@@ -4,6 +4,7 @@ author: Gilbert Kamau
 date: 2025-09-08
 categories: [Data Structures]
 tags: [dsa]
+comments: true
 ---
 
 First, what is **data**?
