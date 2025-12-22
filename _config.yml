@@ -111,10 +111,10 @@ toc: true
 comments:
   active: giscus # Set this to giscus
   giscus:
-    repo: 'your-github-username/your-repo-name'
-    repo_id: 'your-repo-id'
+    repo: 'GilbertKamau/GilbertKamau.github.io'
+    repo_id: 'R_kgDOQrjYog'
     category: 'Announcements'
-    category_id: 'your-category-id'
+    category_id: 'DIC_kwDOQrjYos4C0Hfg'
     reactions_enabled: '1' # Ensure this is '1'
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
